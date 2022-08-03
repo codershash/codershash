@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @codershash
-- 👀 I’m interested in app developing
-- 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in data analytics
+- 🌱 I’m have knowledge of sql and python
 
 <!---
 codershash/codershash is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
